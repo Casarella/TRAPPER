@@ -1,2 +1,4 @@
 # TRAPPER
-Transition Probability Calculator for Nuclear Physics
+TRAnsition Probability Processing/computER for Nuclear Physics
+
+See trapper_help.pdf for usage instructions
